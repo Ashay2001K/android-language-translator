@@ -23,3 +23,9 @@ The application was designed to improve accessibility for visually impaired user
 
 ## Status
 Academic project focused on accessibility and mobile application development.
+
+## Screenshots
+![Home Screen](screenshots/home.png)
+![Voice Input](screenshots/to.png)
+![Translated Output](screenshots/output.png)
+
